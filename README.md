@@ -1,8 +1,8 @@
 # eleicoes2020
 Dados dos vereadores eleitos para as eleições de 2020
 
-Base retirada do repositório do Tribunal Superior Eleitoral em 05 de dezembro de 2020. Elaborada a partir das bases de candidaturas e de resultados eleitorais.  
-Composta por 11 variáveis com dados de vereadores eleitos. N = 38.587. 
+Base retirada do repositório do Tribunal Superior Eleitoral em 05 de dezembro de 2020. Elaborada a partir do banco sobre candidaturas e do com os resultados eleitorais.  
+Composta por 11 variáveis, dados de vereadores eleitos. N = 38.587. 
 
 Descrição das variáveis e suas possibilidades de resposta (códigos para resposta do TSE foram mantidos). 
 1. SG_UF: Sigla do Estado;
